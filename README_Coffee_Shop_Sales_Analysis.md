@@ -78,6 +78,6 @@ After completing this project, students will be able to:
 
 ## Author
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Name:** Vansh Agrawal
 
-**GitHub:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**GitHub:** https://github.com/vanshgarg0168-commits
